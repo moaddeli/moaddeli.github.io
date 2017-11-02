@@ -1,0 +1,4 @@
+Sitemap: https://moaddeli.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: moaddeli.github.io
