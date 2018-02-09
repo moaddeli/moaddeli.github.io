@@ -12,3 +12,7 @@
 `Deep Learning Resources`_
 
 .. _Deep Learning Resources: /dl_links/index.html
+
+`Deep Learning Resources1`_
+
+.. _Deep Learning Resources1: /dl_resources/index.html

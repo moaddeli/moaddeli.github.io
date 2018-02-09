@@ -13838,7 +13838,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .alert {
   border: 0px;
-  border-radius: 0;
+  border-radius: 04px;
 }
 .alert,
 .alert-default {
@@ -14073,6 +14073,34 @@ fieldset[disabled] .navbar .btn-link:focus {
 .alert-success {
   color: rgba(255, 255, 255, 0.84);
 }
+
+/*hamid*/
+
+.alert-success1 {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #3c763d;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.alert-success1 a,
+.alert-success1 .alert-link {
+  color: #337ab7;
+}
+/*hamid*/
+
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+
+
+
 .alert-default a,
 .alert-default .alert-link {
   color: rgba(0, 0, 0, 0.84);
@@ -15334,6 +15362,14 @@ hr.on-light {
 .shadow-z-5 {
   box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
 }
+
+
+ul > li {
+  list-style: disc;
+  margin-left: 30px;
+}
+
+
 /*# sourceMappingURL=material.css.map */
 .withripple {
   position: relative;
