@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "moaddeli.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello, I am Hamid R. Moaddeli, an Iranian computer scientist. I have a master’s degree in Computer Science and Engineering obtained at the Shiraz University in Iran, 2008. and currently working as a freelance software developer, consultant and trainer in Shiraz, Iran.\nMy interests include:\n\nSoftware Development in Python ecosystem especially for scientific application\nData Science, Machine Learning & Deep Learning development\nBig Data application and tools\nApplication of artificial intelligence in medical science"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "fm.html",
+    "href": "fm.html",
+    "title": "Foundation Model",
+    "section": "",
+    "text": "“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial Link\n“Foundation Models” , Samuel Albanie, Online Course 2022 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link\n“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 Link\n“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 Link\n“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 Link\n“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 Link\n“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 Link\n“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 Link\n“UVA Deep Learning Course”, Yuki Asano , Fall 2022 Link\n“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M Link\n“CS25: Transformers United V4”, Stanford University, Spring 2024 Link"
   }
 ]
