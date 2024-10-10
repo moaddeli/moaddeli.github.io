@@ -16,15 +16,36 @@
   {
     "objectID": "fm.html",
     "href": "fm.html",
-    "title": "Foundation Model",
+    "title": "Foundation Models",
     "section": "",
-    "text": "“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial Link\n“Foundation Models” , Samuel Albanie, Online Course 2022 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link\n“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 Link\n“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 Link\n“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 Link\n“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 Link\n“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 Link\n“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 Link\n“UVA Deep Learning Course”, Yuki Asano , Fall 2022 Link\n“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M Link\n“CS25: Transformers United V4”, Stanford University, Spring 2024 Link"
+    "text": "Link"
   },
   {
     "objectID": "fm.html#res",
     "href": "fm.html#res",
-    "title": "Foundation Model",
+    "title": "Foundation Models",
     "section": "res",
     "text": "res\n\n“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial Link\n“Foundation Models” , Samuel Albanie, Online Course 2022 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link\n“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 Link\n“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 Link\n“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 Link\n“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 Link\n“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 Link\n“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 Link\n“UVA Deep Learning Course”, Yuki Asano , Fall 2022 Link\n“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M Link\n“CS25: Transformers United V4”, Stanford University, Spring 2024 Link"
+  },
+  {
+    "objectID": "fm.html#presentation-file",
+    "href": "fm.html#presentation-file",
+    "title": "Foundation Models",
+    "section": "",
+    "text": "Link"
+  },
+  {
+    "objectID": "fm.html#resources-and-references",
+    "href": "fm.html#resources-and-references",
+    "title": "Foundation Models",
+    "section": "Resources and references",
+    "text": "Resources and references\n\n“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial Link\n“Foundation Models” , Samuel Albanie, Online Course 2022 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link\n“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 Link\n“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 Link\n“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 Link\n“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 Link\n“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 Link\n“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 Link\n“UVA Deep Learning Course”, Yuki Asano , Fall 2022 Link\n“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M Link\n“CS25: Transformers United V4”, Stanford University, Spring 2024 Link\nJ. Devlin et al., “Bert: Pre-training of deep bidirectional transformers for language understanding”, NAACL-HLT (2019)\nT. Brown et al., “Language models are few-shot learners”, NeurIPS (2020)\nJ. Kaplan et al., “Scaling laws for neural language models”, arxiv (2020)\nA. Dosovitskiy, et al. “An image is worth 16x16 words: Transformers for image recognition at scale”, ICLR (2021)\nR. Bommasani et al., “On the opportunities and risks of foundation models”, arxiv (2021)\nA. Vaswani et al., “Attention is all you need”, NeurIPS (2017)\nM. Chen et al., “Evaluating large language models trained on code”, arxiv (2021)\nA. Radford et al., “Learning transferable visual models from natural language supervision”, ICML (2021)\nJ Wei et al., “Emergent Abilities of Large Language Models”, arxiv (2022)\nT. Chen et al., “A simple framework for contrastive learning of visual representations”, ICML (2020)\nR. Schaeffer et al., “A simple framework for contrastive learning of visual representations”, NeurIPS (2023)\nZ. Huang et al., “A visual–language foundation model for pathology image analysis using medical Twitter”, nature medicine (2023)\nA. Kirillov et al., “Segment Anything”, arxiv (2023)\nMed-Gemini: Advancing medical AI with Med-Gemini, (2024) Link"
+  },
+  {
+    "objectID": "fm.html#further-resources-and-references",
+    "href": "fm.html#further-resources-and-references",
+    "title": "Foundation Models",
+    "section": "Further resources and references",
+    "text": "Further resources and references\n\n“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 Link\n“CS 839 - Foundation Models & the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 Link\n“MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI”, 2024, Link\n“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University Link\n“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 Link\n“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, Link\n“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, Link\n“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, Link\n“Self-Supervised Representation Learning”, Lilian Weng, Link\n“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, Link"
   }
 ]
