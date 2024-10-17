@@ -21,13 +21,6 @@
     "text": "Link"
   },
   {
-    "objectID": "fm.html#res",
-    "href": "fm.html#res",
-    "title": "Foundation Models",
-    "section": "res",
-    "text": "res\n\n“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial Link\n“Foundation Models” , Samuel Albanie, Online Course 2022 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link\n“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 Link\n“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 Link\n“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 Link\n“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 Link\n“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 Link\n“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 Link\n“UVA Deep Learning Course”, Yuki Asano , Fall 2022 Link\n“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M Link\n“CS25: Transformers United V4”, Stanford University, Spring 2024 Link"
-  },
-  {
     "objectID": "fm.html#presentation-file",
     "href": "fm.html#presentation-file",
     "title": "Foundation Models",
@@ -46,6 +39,6 @@
     "href": "fm.html#further-resources-and-references",
     "title": "Foundation Models",
     "section": "Further resources and references",
-    "text": "Further resources and references\n\n“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 Link\n“CS 839 - Foundation Models & the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 Link\n“MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI”, 2024, Link\n“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University Link\n“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 Link\n“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, Link\n“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, Link\n“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, Link\n“Self-Supervised Representation Learning”, Lilian Weng, Link\n“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, Link"
+    "text": "Further resources and references\n\n“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 Link\n“CS 839 - Foundation Models & the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 Link\n“MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI”, 2024, Link\n“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University Link\n“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 Link\n“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, Link\n“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, Link\n“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, Link\n“Self-Supervised Representation Learning”, Lilian Weng, Link\n“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, Link\n“CS 2281R: Mathematical & Engineering Principles for Training Foundation Models”, Harvard University , Fall 2024, Link"
   }
 ]
