@@ -1,0 +1,31 @@
+---
+title: "Essentials and Applications of Artificial Intelligence for Clinicians"
+---
+
+## Description File
+- [Link](ai_med.pdf)
+
+
+## Online Courses
+- [ChatGPT for Healthcare](https://www.ai4healthcare.org/courses/chatgpt-for-healthcare)
+- [Generative AI 4 Healthcare](https://www.ai4healthcare.org/courses/generative-ai-4-healthcare)
+- [10X your Productivity as a Physician using ChatGPT](https://www.ai4healthcare.org/courses/10x-your-productivity-as-a-physician-using-chatgpt)
+- [AI in Education: Leveraging ChatGPT for Teaching](https://www.coursera.org/learn/wharton-ai-in-education-leveraging-chatgpt-for-teaching)
+
+
+## Prompt Engineering
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
+
+## Google NotebookLM
+- [NotebookLM](https://notebooklm.google/)
+- [NotebookLM Crash Course](https://www.youtube.com/watch?v=ZDALjDt-Fg8)
+- [Google ships custom audio overviews! (NotebookLM Updates)](https://www.youtube.com/watch?v=ttu27NZJtnA)
+
+
+## OpenEvidence 
+- [OpenEvidence](https://www.openevidence.com/)
+
+
+## Empathetic Responses of Chatbots
+- [AIMI NextGen Tech Talk Ep. 6 | Health AI Beyond ChatGPT with Jonathan Chen](https://www.youtube.com/watch?v=ktPhvdZVa18&t=1396s)

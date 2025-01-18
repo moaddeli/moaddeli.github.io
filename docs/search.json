@@ -54,5 +54,40 @@
     "title": "Foundation Models",
     "section": "Further resources and references",
     "text": "Further resources and references\n\n“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 Link\n“CS 839 - Foundation Models & the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 Link\n“MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI”, 2024, Link\n“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University Link\n“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 Link\n“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, Link\n“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, Link\n“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, Link\n“Self-Supervised Representation Learning”, Lilian Weng, Link\n“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, Link\n“CS 2281R: Mathematical & Engineering Principles for Training Foundation Models”, Harvard University , Fall 2024, Link"
+  },
+  {
+    "objectID": "ai4clinicians.html#online-courses",
+    "href": "ai4clinicians.html#online-courses",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "Online Courses",
+    "text": "Online Courses\n\nChatGPT for Healthcare\nGenerative AI 4 Healthcare\n10X your Productivity as a Physician using ChatGPT\nAI in Education: Leveraging ChatGPT for Teaching"
+  },
+  {
+    "objectID": "ai4clinicians.html#prompt-engineering",
+    "href": "ai4clinicians.html#prompt-engineering",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "Prompt Engineering",
+    "text": "Prompt Engineering\n\nPrompt Engineering Guide"
+  },
+  {
+    "objectID": "ai4clinicians.html#google-notebooklm",
+    "href": "ai4clinicians.html#google-notebooklm",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "Google NotebookLM",
+    "text": "Google NotebookLM\n\nNotebookLM\nNotebookLM Crash Course\nGoogle ships custom audio overviews! (NotebookLM Updates)"
+  },
+  {
+    "objectID": "ai4clinicians.html#openevidence",
+    "href": "ai4clinicians.html#openevidence",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "OpenEvidence",
+    "text": "OpenEvidence\n\nOpenEvidence"
+  },
+  {
+    "objectID": "ai4clinicians.html#empathetic-responses-of-chatbots",
+    "href": "ai4clinicians.html#empathetic-responses-of-chatbots",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "Empathetic Responses of Chatbots",
+    "text": "Empathetic Responses of Chatbots\n\nAIMI NextGen Tech Talk Ep. 6 | Health AI Beyond ChatGPT with Jonathan Chen"
   }
 ]
