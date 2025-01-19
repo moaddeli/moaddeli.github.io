@@ -5,7 +5,7 @@ title: ""
 ![](me.jpg)
 
 
-Hello, I am **Hamid R. Moaddeli**, an Iranian computer scientist. I have a master's degree in Computer Science and Engineering obtained at the `Shiraz University` in Iran, 2008. and currently working  as a freelance software developer, consultant and trainer  in Shiraz, Iran.
+Hello, I am **Hamid R. Moaddeli**, an Iranian computer scientist. I have a master's degree in Computer Science and Engineering obtained at the `Shiraz University` in Iran, 2008. and currently working  as a freelance software developer, consultant and trainer  in Shiraz, Iran. [CV](hrm_cv.pdf)
 
 
 My interests include:
