@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+---
+fig-cap-location: top
+---
+
+---
+
+[![Download My CV File:](cv.png){fig-align="left"}](hrm_cv.pdf)

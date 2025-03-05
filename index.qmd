@@ -1,17 +1,17 @@
 ---
 title: ""
 ---
+![](me_2.jpg)
 
-![](me.jpg)
+Hello, I'm **Hamidreza Moaddeli**, a Senior Machine Learning Engineer with over 10 years of dedicated experience in the fields of Machine Learning and Data Science. I specialize in Deep Learning and Machine Learning, particularly for medical and healthcare applications, with over 6 years of focused expertise. I hold a Master's degree in Computer Engineering, majoring in Software Engineering, from `Shiraz University` (2005-2008). 
+
+My expertise in NLP, Computer Vision, and Multimodal Data analysis allows me to effectively tackle complex challenges. I am proficient with the Python scientific computing ecosystem and familiar with key ML/DL frameworks like PyTorch and TensorFlow.
+
+My experience includes :
+
+-  Designing and implementing deep learning models for medical image analysis at `Kronikare Pte Ltd.`, contributing to automated diagnostic tools for chronic wound assessment.
+
+-  Developing hybrid deep learning models for Glioblastoma brain tumor segmentation at `Artin Analysis Ltd.`, integrated into a CAD software environment.
 
 
-Hello, I am **Hamid R. Moaddeli**, an Iranian computer scientist. I have a master's degree in Computer Science and Engineering obtained at the `Shiraz University` in Iran, 2008. and currently working  as a freelance software developer, consultant and trainer  in Shiraz, Iran. [CV](hrm_cv.pdf)
-
-
-My interests include:
-
-* Software Development in Python ecosystem especially for scientific application
-* Data Science, Machine Learning & Deep Learning development
-* Big Data application and tools
-* Application of artificial intelligence in medical science
 

@@ -1,0 +1,6 @@
+---
+title: "Links"
+---
+- "ML/DL in Healthcare and Biomedicine Courses" [Link](aimed_courses.qmd)
+- "Foundation Models" [Link](fm.qmd)
+- "Essentials and Applications of Artificial Intelligence for Clinicians" [Link](ai4clinicians.qmd)

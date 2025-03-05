@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "moaddeli.github.io",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
     "section": "",
-    "text": "Hello, I am Hamid R. Moaddeli, an Iranian computer scientist. I have a master’s degree in Computer Science and Engineering obtained at the Shiraz University in Iran, 2008. and currently working as a freelance software developer, consultant and trainer in Shiraz, Iran. CV\nMy interests include:\n\nSoftware Development in Python ecosystem especially for scientific application\nData Science, Machine Learning & Deep Learning development\nBig Data application and tools\nApplication of artificial intelligence in medical science"
-  },
-  {
-    "objectID": "ai4clinicians.html",
-    "href": "ai4clinicians.html",
-    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
-    "section": "",
-    "text": "Link"
-  },
-  {
-    "objectID": "ai4clinicians.html#description-file",
-    "href": "ai4clinicians.html#description-file",
-    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
-    "section": "",
-    "text": "Link"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "“ML/DL in Healthcare and Biomedicine Courses” Link\n“Foundation Models” Link\n“Essentials and Applications of Artificial Intelligence for Clinicians” Link"
   },
   {
     "objectID": "fm.html",
@@ -54,6 +33,34 @@
     "title": "Foundation Models",
     "section": "Further resources and references",
     "text": "Further resources and references\n\n“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 Link\n“CS 839 - Foundation Models & the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 Link\n“MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI”, 2024, Link\n“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University Link\n“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 Link\n“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, Link\n“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, Link\n“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, Link\n“Self-Supervised Representation Learning”, Lilian Weng, Link\n“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, Link\n“CS 2281R: Mathematical & Engineering Principles for Training Foundation Models”, Harvard University , Fall 2024, Link"
+  },
+  {
+    "objectID": "aimed_courses.html",
+    "href": "aimed_courses.html",
+    "title": "ML/DL in Healthcare and Biomedicine Courses",
+    "section": "",
+    "text": "“BMIF 203: Artificial Intelligence in Medicine II”, Harvard University, Spring 2025\n\nLecture Slides, Reading List: https://zitniklab.hms.harvard.edu/AIM2/\n\n\n\n\n“6.7930[6.871]/HST.956: Machine Learning for Healthcare”, MIT University, Spring 2025\n\nLecture Slides: https://mlhcmit.github.io/\n\n\n\n\n“BIODS 276: Advanced Topics in Computer Vision and Biomedicine”, Stanford University, Fall 2024-2025\n\nLecture Slides: https://web.stanford.edu/class/biods276/\n\n\n\n\n“MLCB24: Machine Learning for Computational Biology”, MIT University, Fall 2024\n\nLecture Slides: https://canvas.mit.edu/courses/28242/modules\nLecture Videos: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc\n\n\n\n\n“BIODS 271: Foundation Models for Healthcare”, Stanford University, Winter 2024\n\nLecture Slides: https://stanford-biods271.github.io/\n\n\n\n\n“BMI 702 : Biomedical Artificial Intelligence”, Harvard University, Spring 2024\n\nLecture Slides, Reading List https://zitniklab.hms.harvard.edu/BMI702/\n\n\n\n\n“HST 953/6.8850: Clinical Data Learning”, MIT University, Fall 2024\n\nLecture Slides: https://canvas.mit.edu/courses/28424\n\n\n\n\n“BIODS220: Artificial Intelligence in Healthcare”, Stanford University, Fall 2022-2023\n\nLecture Slides: https://biods220.stanford.edu/\n\n\n\n\n“CSC2541: Machine Learning for Healthcare” University of Toronto, Fall 2023\n\nLecture Slides: https://csc2541-2023.github.io/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "ai4clinicians.html",
+    "href": "ai4clinicians.html",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "",
+    "text": "Link"
+  },
+  {
+    "objectID": "ai4clinicians.html#description-file",
+    "href": "ai4clinicians.html#description-file",
+    "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
+    "section": "",
+    "text": "Link"
   },
   {
     "objectID": "ai4clinicians.html#online-courses",
@@ -89,5 +96,19 @@
     "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
     "section": "Empathetic Responses of Chatbots",
     "text": "Empathetic Responses of Chatbots\n\nAIMI NextGen Tech Talk Ep. 6 | Health AI Beyond ChatGPT with Jonathan Chen"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download My CV File:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hamidreza Moaddeli",
+    "section": "",
+    "text": "Hello, I’m Hamidreza Moaddeli, a Senior Machine Learning Engineer with over 10 years of dedicated experience in the fields of Machine Learning and Data Science. I specialize in Deep Learning and Machine Learning, particularly for medical and healthcare applications, with over 6 years of focused expertise. I hold a Master’s degree in Computer Engineering, majoring in Software Engineering, from Shiraz University (2005-2008).\nMy expertise in NLP, Computer Vision, and Multimodal Data analysis allows me to effectively tackle complex challenges. I am proficient with the Python scientific computing ecosystem and familiar with key ML/DL frameworks like PyTorch and TensorFlow.\nMy experience includes :\n\nDesigning and implementing deep learning models for medical image analysis at Kronikare Pte Ltd., contributing to automated diagnostic tools for chronic wound assessment.\nDeveloping hybrid deep learning models for Glioblastoma brain tumor segmentation at Artin Analysis Ltd., integrated into a CAD software environment."
   }
 ]

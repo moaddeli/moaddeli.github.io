@@ -3,15 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "moaddeli.github.io"
+  title: "Hamidreza Moaddeli"
   navbar:
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/moaddeli/
+
+      - icon: github
+        href: https://www.github.com/moaddeli
+
+      - icon: twitter 
+        href: https://twitter.com/hrmoaddeli
+    background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - fm.qmd
-      - ai4clinicians.qmd
-
+        text: Home    
+      - href: cv.qmd
+        text: CV  
+      - links.qmd  
+      
 format:
   html:
     theme: cosmo
