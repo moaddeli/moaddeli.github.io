@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Hamidreza Moaddeli"
+ 
   navbar:
     right:
       - icon: linkedin
@@ -20,13 +21,19 @@ website:
         text: Home    
       - href: cv.qmd
         text: CV  
-      - links.qmd  
+      - href: links.qmd  
+        text: Links
+      - href: posts
+        text: Blog
+       
       
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+   
+
 
 
 

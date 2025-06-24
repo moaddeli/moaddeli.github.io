@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Foundation Models – Hamidreza Moaddeli</title>
+<title>My Blog – Hamidreza Moaddeli</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-71b63cd8563d634f2b55945d6dbaea61.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-71b63cd8563d634f2b55945d6dbaea61.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,9 +68,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -78,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Hamidreza Moaddeli</span>
     </a>
   </div>
@@ -89,19 +149,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./links.html"> 
+    <a class="nav-link" href="../links.html"> 
 <span class="menu-text">Links</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts"> 
+    <a class="nav-link" href="../posts"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -129,31 +189,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#presentation-file" id="toc-presentation-file" class="nav-link active" data-scroll-target="#presentation-file">Presentation File</a></li>
-  <li><a href="#resources-and-references" id="toc-resources-and-references" class="nav-link" data-scroll-target="#resources-and-references">Resources and references</a></li>
-  <li><a href="#further-resources-and-references" id="toc-further-resources-and-references" class="nav-link" data-scroll-target="#further-resources-and-references">Further resources and references</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Foundation Models</h1>
+<h1 class="title">My Blog</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -165,63 +217,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="presentation-file" class="level2">
-<h2 class="anchored" data-anchor-id="presentation-file">Presentation File</h2>
-<ul>
-<li><a href="https://docs.google.com/presentation/d/19sE-bt1NH_s_mPhu2sbbzIXOrga2tnvOAeKOp5XiY3c/edit?usp=sharing">Link</a></li>
-</ul>
-</section>
-<section id="resources-and-references" class="level2">
-<h2 class="anchored" data-anchor-id="resources-and-references">Resources and references</h2>
-<ul>
-<li><p>“Foundational Robustness of Foundation Models” , NeurIPS 2022 Tutorial <a href="https://neurips.cc/virtual/2022/tutorial/55796">Link</a></p></li>
-<li><p>“Foundation Models” , Samuel Albanie, Online Course 2022 <a href="https://samuelalbanie.com/teaching/2022-foundation-models">Link</a></p></li>
-<li><p>“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 <a href="https://uvafomo.github.io/">Link</a></p></li>
-<li><p>“CS 886: Recent Advances on Foundation Models”, Wenhu Chen, University of Waterloo, Winter 2024 <a href="https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/">Link</a></p></li>
-<li><p>“CS 8803 VLM Vision-Language Foundation Models”, Zsolt Kira, Georgia Tech, Fall 2024 <a href="https://faculty.cc.gatech.edu/~zk15/teaching/AY2024_cs8803vlm_fall/index.html">Link</a></p></li>
-<li><p>“BIODS 271: Foundation Models for Healthcare” ,Stanford University, Winter 2024 <a href="https://stanford-biods271.github.io/">Link</a></p></li>
-<li><p>“Emergence of Foundation Models: Opportunities to Rethink Medical AI”, Shekoofeh Azizi, CVPR 2024 <a href="https://www.youtube.com/watch?v=zoKr60f-Kws">Link</a></p></li>
-<li><p>“COMP 590/776: Computer Vision in 3D World”, Roni Senguptam UNC, Spring 2023 <a href="https://www.cs.unc.edu/~ronisen/teaching/spring_2023/COMP776_Vision_spring23.html">Link</a></p></li>
-<li><p>“COS 597G: Understanding Large Language Models” , Danqi Chen, Princeton University, Fall 2022 <a href="https://www.cs.princeton.edu/courses/archive/fall22/cos597G/">Link</a></p></li>
-<li><p>“UVA Deep Learning Course”, Yuki Asano , Fall 2022 <a href="https://uvadlc.github.io/lectures-nov2022.html#">Link</a></p></li>
-<li><p>“What are Foundation Models in AI?”, https://www.youtube.com/watch?v=dV0X1QyLL8M <a href="https://www.youtube.com/watch?v=dV0X1QyLL8M">Link</a></p></li>
-<li><p>“CS25: Transformers United V4”, Stanford University, Spring 2024 <a href="https://web.stanford.edu/class/cs25/">Link</a></p></li>
-<li><p>J. Devlin et al., “Bert: Pre-training of deep bidirectional transformers for language understanding”, NAACL-HLT (2019)</p></li>
-<li><p>T. Brown et al., “Language models are few-shot learners”, NeurIPS (2020)</p></li>
-<li><p>J. Kaplan et al., “Scaling laws for neural language models”, arxiv (2020)</p></li>
-<li><p>A. Dosovitskiy, et al.&nbsp;“An image is worth 16x16 words: Transformers for image recognition at scale”, ICLR (2021)</p></li>
-<li><p>R. Bommasani et al., “On the opportunities and risks of foundation models”, arxiv (2021)</p></li>
-<li><p>A. Vaswani et al., “Attention is all you need”, NeurIPS (2017)</p></li>
-<li><p>M. Chen et al., “Evaluating large language models trained on code”, arxiv (2021)</p></li>
-<li><p>A. Radford et al., “Learning transferable visual models from natural language supervision”, ICML (2021)</p></li>
-<li><p>J Wei et al., “Emergent Abilities of Large Language Models”, arxiv (2022)</p></li>
-<li><p>T. Chen et al., “A simple framework for contrastive learning of visual representations”, ICML (2020)</p></li>
-<li><p>R. Schaeffer et al., “A simple framework for contrastive learning of visual representations”, NeurIPS (2023)</p></li>
-<li><p>Z. Huang et al., “A visual–language foundation model for pathology image analysis using medical Twitter”, nature medicine (2023)</p></li>
-<li><p>A. Kirillov et al., “Segment Anything”, arxiv (2023)</p></li>
-<li><p>Med-Gemini: Advancing medical AI with Med-Gemini, (2024) <a href="https://research.google/blog/advancing-medical-ai-with-med-gemini/">Link</a></p></li>
-</ul>
-</section>
-<section id="further-resources-and-references" class="level2">
-<h2 class="anchored" data-anchor-id="further-resources-and-references">Further resources and references</h2>
-<ul>
-<li><p>“CS 324 - Advances in Foundation Models” , Stanford University, Winter 2023 <a href="https://stanford-cs324.github.io/winter2023/">Link</a></p></li>
-<li><p>“CS 839 - Foundation Models &amp; the Future of Machine Learning” , Wisconsin–Madison University, Fall 2023 <a href="https://pages.cs.wisc.edu/~fredsala/cs839/fall2023/index.html">Link</a></p></li>
-<li><p>“MIT FUTURE OF AI 6.S087: Foundation Models &amp; Generative AI”, 2024, <a href="https://www.futureofai.mit.edu/">Link</a></p></li>
-<li><p>“AI Foundation Models CPSC 488/588” , Fall 2023 , Yale University <a href="https://yale-nlp.github.io/cpsc488/">Link</a></p></li>
-<li><p>“EE/CS 148 - Large Language and Vision Models”, Caltech, Spring 2024 <a href="https://gkioxari.github.io/teaching/cs148/">Link</a></p></li>
-<li><p>“CVPR 2024 Tutorial on”Recent Advances in Vision Foundation Models”, <a href="https://vlp-tutorial.github.io/">Link</a></p></li>
-<li><p>“CS 601.471/671 NLP: Self-supervised Models”, Johns Hopkins University - Spring 2024, <a href="https://self-supervised.cs.jhu.edu/sp2024/">Link</a></p></li>
-<li><p>“ECCV 2022 Tutorial on Self-Supervised Representation Learning in Computer Vision”, <a href="https://feichtenhofer.github.io/eccv2022-ssl-tutorial/">Link</a></p></li>
-<li><p>“Self-Supervised Representation Learning”, Lilian Weng, <a href="https://lilianweng.github.io/posts/2019-11-10-self-supervised/">Link</a></p></li>
-<li><p>“CIS 7000 - Large Language Models”, University of Pennsylvania, Fall 2024, <a href="https://llm-class.github.io/">Link</a></p></li>
-<li><p>“CS 2281R: Mathematical &amp; Engineering Principles for Training Foundation Models”, Harvard University , Fall 2024, <a href="https://shamulent.github.io/CS_2281_2024.html">Link</a></p></li>
-</ul>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1750537800000" data-listing-file-modified-sort="1750702601622" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="968">
+<div class="thumbnail">
+<p><a href="../posts/amie/index.html" class="no-external"></a></p><a href="../posts/amie/index.html" class="no-external">
+<p class="card-img-top"><img src="amie/amie1.gif"  class="thumbnail-image card-img"/></p>
+</a><p><a href="../posts/amie/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/amie/index.html" class="no-external">AMIE</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../posts/amie/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../posts/amie/index.html" class="no-external">معرفی سیستم AMIE شرکت گوگل</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../posts/amie/index.html" class="no-external">
+<div class="listing-date">
+Jun 22, 2025
+</div>
+<div class="listing-author">
+HR Moaddeli
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
