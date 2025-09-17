@@ -3,7 +3,14 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
 ---
 
 --- 
+- ***"MLCB25: Machine Learning for Computational Biology"***, MIT University, Fall 2025
+    - Lecture Slides: <https://canvas.mit.edu/courses/33939>
 
+|
+- ***"BIODS 271: Foundation Models for Healthcare"***, Stanford University, Spring 2025
+    - Lecture Slides: <https://web.stanford.edu/class/biods271/>
+
+|
 - ***"BMIF 203: Artificial Intelligence in Medicine II"***, Harvard University, Spring 2025
     - Lecture Slides, Reading List: <https://zitniklab.hms.harvard.edu/AIM2/>
 
@@ -25,8 +32,8 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
     - Lecture Videos: <https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc>
 
 |
-- ~~***"BIODS 271: Foundation Models for Healthcare"***, Stanford University, Winter 2024~~
-    - ~~Lecture Slides: <https://stanford-biods271.github.io/>~~ [**removed**]{.mark}
+- ***"BIODS 271: Foundation Models for Healthcare"***, Stanford University, Winter 2024
+    - Lecture Slides: <https://web.stanford.edu/class/biods271/winter2024/index.html>
 
 |
 - ***"BMI 702 : Biomedical Artificial Intelligence"***, Harvard University, Spring 2024
