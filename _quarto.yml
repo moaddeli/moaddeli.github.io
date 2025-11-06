@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Hamidreza Moaddeli"
- 
+
+  google-analytics: "G-WGM4V3CVY1"
+
   navbar:
     right:
       - icon: linkedin
