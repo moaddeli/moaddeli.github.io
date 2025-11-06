@@ -3,6 +3,10 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
 ---
 
 --- 
+- ***"CPH 100 / Data C146: Foundations of Computational Precision Health"***, University of California, Berkeley, Fall 2025
+    - Lecture Slides: <https://irenechen.net/cph100/>
+
+|
 - ***"MLCB25: Machine Learning for Computational Biology"***, MIT University, Fall 2025
     - Lecture Slides: <https://canvas.mit.edu/courses/33939>
 
