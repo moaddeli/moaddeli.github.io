@@ -11,7 +11,7 @@
     "href": "links.html",
     "title": "Links",
     "section": "",
-    "text": "“ML/DL in Healthcare and Biomedicine Courses” Link\n“Foundation Models” Link\n“Essentials and Applications of Artificial Intelligence for Clinicians” Link"
+    "text": "“​Artificial​ ​Intelligence​ ​in​ ​Healthcare:​ ​History,​ ​Clinical​ ​and​ ​Research​ ​Applications,​ ​Current Landscape,and Challenges​” Link\n“ML/DL in Healthcare and Biomedicine Courses” Link\n“Foundation Models” Link\n“Essentials and Applications of Artificial Intelligence for Clinicians” Link"
   },
   {
     "objectID": "fm.html",
@@ -47,13 +47,6 @@
     "title": "ML/DL in Healthcare and Biomedicine Courses",
     "section": "",
     "text": "“CPH 100 / Data C146: Foundations of Computational Precision Health”, UC Berkeley, Fall 2025\n\nLecture Slides: https://irenechen.net/cph100/\n\n\n\n\n“MLCB25: Machine Learning for Computational Biology”, MIT University, Fall 2025\n\nLecture Slides: https://canvas.mit.edu/courses/33939\n\n\n\n\n“BIODS 271: Foundation Models for Healthcare”, Stanford University, Spring 2025\n\nLecture Slides: https://web.stanford.edu/class/biods271/\n\n\n\n\n“BMIF 203: Artificial Intelligence in Medicine II”, Harvard University, Spring 2025\n\nLecture Slides, Reading List: https://zitniklab.hms.harvard.edu/AIM2/\n\n\n\n\n“6.7930[6.871]/HST.956: Machine Learning for Healthcare”, MIT University, Spring 2025\n\nLecture Slides: https://mlhcmit.github.io/\n\n\n\n\n“10-742: Machine Learning in Healthcare”, CMU, Fall 2024\n\nLecture Slides: https://adamleeberger.github.io/ML-in-healthcare-course/\n\n\n\n\n“BIODS 276: Advanced Topics in Computer Vision and Biomedicine”, Stanford University, Fall 2024-2025\n\nLecture Slides: https://web.stanford.edu/class/biods276/\n\n\n\n\n“MLCB24: Machine Learning for Computational Biology”, MIT University, Fall 2024\n\nLecture Slides: https://canvas.mit.edu/courses/28242/modules\nLecture Videos: https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc\n\n\n\n\n“BIODS 271: Foundation Models for Healthcare”, Stanford University, Winter 2024\n\nLecture Slides: https://web.stanford.edu/class/biods271/winter2024/index.html\n\n\n\n\n“BMI 702 : Biomedical Artificial Intelligence”, Harvard University, Spring 2024\n\nLecture Slides, Reading List https://zitniklab.hms.harvard.edu/BMI702/\n\n\n\n\n“HST 953/6.8850: Clinical Data Learning”, MIT University, Fall 2024\n\nLecture Slides: https://canvas.mit.edu/courses/28424\n\n\n\n\n“BIODS220: Artificial Intelligence in Healthcare”, Stanford University, Fall 2022-2023\n\nLecture Slides: https://biods220.stanford.edu/\n\n\n\n\n“CSC2541: Machine Learning for Healthcare” University of Toronto, Fall 2023\n\nLecture Slides: https://csc2541-2023.github.io/"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "ai4clinicians.html",
@@ -103,6 +96,41 @@
     "title": "Essentials and Applications of Artificial Intelligence for Clinicians",
     "section": "Empathetic Responses of Chatbots",
     "text": "Empathetic Responses of Chatbots\n\nAIMI NextGen Tech Talk Ep. 6 | Health AI Beyond ChatGPT with Jonathan Chen"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "ai4pacc.html",
+    "href": "ai4pacc.html",
+    "title": "​Artificial​ ​Intelligence​ ​in​ ​Healthcare:​ ​History,​ ​Clinical​ ​and​ ​Research​ ​Applications,​ ​Current Landscape,and Challenges​",
+    "section": "",
+    "text": "Link"
+  },
+  {
+    "objectID": "ai4pacc.html#presentation-file",
+    "href": "ai4pacc.html#presentation-file",
+    "title": "​Artificial​ ​Intelligence​ ​in​ ​Healthcare:​ ​History,​ ​Clinical​ ​and​ ​Research​ ​Applications,​ ​Current Landscape,and Challenges​",
+    "section": "",
+    "text": "Link"
+  },
+  {
+    "objectID": "ai4pacc.html#resources-and-references",
+    "href": "ai4pacc.html#resources-and-references",
+    "title": "​Artificial​ ​Intelligence​ ​in​ ​Healthcare:​ ​History,​ ​Clinical​ ​and​ ​Research​ ​Applications,​ ​Current Landscape,and Challenges​",
+    "section": "Resources and references",
+    "text": "Resources and references\n\nhttps://www.openevidence.com/announcements/openevidence-ai-first-ai-score-above-90-percent-on-the-usmle Link\nhttps://www.coatue.com/blog/press/partnering-with-openevidence Link\n“CPH 100 / Data C146: Foundations of Computational Precision Health”, UC Berkeley, Fall 2025 Link\nClarity Link\nMirai Link\n“Risk Reduction and Early Detection: Updates on Breast Cancer Screening with Dr. Connie Lehman” LINK\n“Developing next-generation cancer care management with multi-agent orchestration” Link\n“Evolution Of Neural Network” Link\n“6.7930[6.871]/HST.956: Machine Learning for Healthcare”, MIT University, Spring 2025 Link\n“UvA Foundation Models Course” , Cees Snoek, Yuki Asano , Spring 2024 Link Link\n“AI Agents vs Agentic AI Systems” Link\nAI-READI Link\nArtificial Intelligence in Precision Medicine for Diabetes and Other Chronic Diseases, Day 2 Link\nThe Human Phenotype Project Link\nLee Reicher et al., “Deep phenotyping of health–disease continuum in the Human Phenotype Project”, nature medicine (2025)\nGuy Lutsker et al., “From Glucose Patterns to Health Outcomes: A Generalizable Foundation Model for Continuous Glucose Monitor Data Analysis”, arxiv (2024)\nDivya Shanmugam et al., “Generative Artificial Intelligence in Medicine”, Annual Review of Biomedical Data Science (2025)\nMarcus A. Badgeley et al., “Deep learning predicts hip fracture using confounding patient and healthcare variables”, npj digital medicine (2019)\nZiad Obermeyer et al., “Dissecting racial bias in an algorithm used to manage the health of populations”, science, 2019\n“CS 329T: Trustworthy Machine Learning , Large Language Models and Applications”, Stanford, Fall 2023\nIntroducing the Next Generation of Vectara’s Hallucination Leaderboard Link\nTechnically Accurate, Medically Fatal Link\nGemini 3.0 Pro Surpasses Radiology Trainees on Radiology’s Last Exam (RadLE) Link\nArthur Brant et al. “Performance of a Deep Learning Diabetic Retinopathy Algorithm in India”, JAMA Network Open (2025)\nhttps://a2zradiology.ai/ Link\nAdvancing medical AI with Med-Gemini Link\nAMIE: A research AI system for diagnostic medical reasoning and conversations Link\nOWKIN MSIntuit® CRC Link\nThe Dawn of Spatial Medicine Link\nThierry M. Nordmann et al., “Spatial proteomics identifies JAKi as treatment for a lethal skin disease”, nature(2024)\nZhuoting Zhu et al., “Oculomics: Current concepts and evidence”, Progress in Retinal and Eye Research (2025)\nReti-CVD Link\nAI in Medical Education Symposium, Stanford university, 2025 Link\nPrecision Medicine 2024: Education in the AI Era, Harvard University, 2024, Link\nE. Abdulnour et al., “Educational Strategies for Clinical Supervision of Artificial Intelligence Use”, The New England Journal of Medicine, 2025\nAI Clinical Coach Link\nDDx Link\nAlphaFold Link\nZuojun Xu, “A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial”, nature medicine (2025)\nEileen Kim, “AI Scribes Are Not Productivity Tools (Yet)”, Nejm AI (2025)\nHugo™ RAS System Link\nHealthcare AI in 2025 – a reflection Link\nThe most interesting scientific papers I read last month , Jan Berger Link\nThe 2025 Physicians AI Report Link"
+  },
+  {
+    "objectID": "ai4pacc.html#further-resources",
+    "href": "ai4pacc.html#further-resources",
+    "title": "​Artificial​ ​Intelligence​ ​in​ ​Healthcare:​ ​History,​ ​Clinical​ ​and​ ​Research​ ​Applications,​ ​Current Landscape,and Challenges​",
+    "section": "Further resources",
+    "text": "Further resources\n\n“ML/DL in Healthcare and Biomedicine Courses” Link"
   },
   {
     "objectID": "cv.html",
