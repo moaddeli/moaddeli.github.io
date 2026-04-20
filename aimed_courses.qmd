@@ -3,6 +3,26 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
 ---
 
 --- 
+- ***"BMIF 203: Artificial Intelligence in Medicine II"***, Harvard University, Spring 2026
+    - Lecture Slides, Reading List: <https://zitniklab.hms.harvard.edu/AIM2/>
+
+|
+- ***"MPHY 6120 - Artificial Intelligence for Medicine"***, University of Pennsylvania, Spring 2026
+    - Modules: <https://clinicalai.guide/>
+
+|
+- ***"CSC2541H: AI for Drug Discovery"***, University of Toronto, Winter 2026
+    - Lecture Slides: <https://www.cs.toronto.edu/~cmaddis/courses/csc2541_w26/>
+
+|
+- ***"BMDS 271: Foundation Models for Healthcare"***, Stanford University, Winter 2026
+    - Lecture Slides: <https://web.stanford.edu/class/cs277/>
+
+|
+- ***"CSE 4109 Introduction to AI for Health, Fall 2025."***, Washington University in St. Louis, Fall 2025
+    - Lecture Slides: <https://www.cs.wustl.edu/~lu/cse4109/>
+
+|
 - ***"CPH 100 / Data C146: Foundations of Computational Precision Health"***, UC Berkeley, Fall 2025
     - Lecture Slides: <https://irenechen.net/cph100/>
 
@@ -11,12 +31,8 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
     - Lecture Slides: <https://canvas.mit.edu/courses/33939>
 
 |
-- ***"BIODS 271: Foundation Models for Healthcare"***, Stanford University, Spring 2025
-    - Lecture Slides: <https://web.stanford.edu/class/biods271/>
-
-|
-- ***"BMIF 203: Artificial Intelligence in Medicine II"***, Harvard University, Spring 2025
-    - Lecture Slides, Reading List: <https://zitniklab.hms.harvard.edu/AIM2/>
+- ***"BMD-ENG-495: Deep Learning for Biomedical Imaging"***, Northwestern University, Winter 2025
+    - Lecture Slides: <https://bagcilab.com/courses/>
 
 |
 - ***"6.7930[6.871]/HST.956: Machine Learning for Healthcare"***, MIT University, Spring 2025
@@ -34,10 +50,6 @@ title: "ML/DL in Healthcare and Biomedicine Courses"
 - ***"MLCB24: Machine Learning for Computational Biology"***, MIT University, Fall 2024
     - Lecture Slides: <https://canvas.mit.edu/courses/28242/modules>
     - Lecture Videos: <https://www.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc>
-
-|
-- ***"BIODS 271: Foundation Models for Healthcare"***, Stanford University, Winter 2024
-    - Lecture Slides: <https://web.stanford.edu/class/biods271/winter2024/index.html>
 
 |
 - ***"BMI 702 : Biomedical Artificial Intelligence"***, Harvard University, Spring 2024
